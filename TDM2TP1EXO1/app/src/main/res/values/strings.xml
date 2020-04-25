@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TDM2TP1EXO1</string>
+    <string-array name="colors">
+        <item>Choose your color settings</item>
+        <item>LIGHT</item>
+        <item>DARK</item>
+        <item>GREEN</item>
+        <item>PINK</item>
+    </string-array>
+</resources>

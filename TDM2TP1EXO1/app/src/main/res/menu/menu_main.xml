@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.tdm2exo1tp1.MainActivity"
+    >
+    <item android:id="@+id/activity1"
+        android:title="Activity One " />
+    <item android:id="@+id/activity2"
+        android:title="Activity Two" />
+    <item android:id="@+id/activity3"
+        android:title="Activity Three" />
+    <item android:id="@+id/activityChangeColor"
+        android:title=" Change Color" />
+</menu>
